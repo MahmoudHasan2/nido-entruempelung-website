@@ -1,0 +1,7 @@
+.env
+storage/*.sqlite*
+storage/sessions/
+storage/*.log
+uploads/*
+!uploads/.htaccess
+*.zip
